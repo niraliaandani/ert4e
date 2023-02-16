@@ -1,0 +1,5 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OswaldMedium.ttf"); font-family : "Oswald"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OswaldSemiBold.ttf"); font-family : "Oswald"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
